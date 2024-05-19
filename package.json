@@ -1,6 +1,5 @@
 {
   "name": "blog-shafat-client",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "proxy": "http://217.20.242.11:3589",
